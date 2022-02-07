@@ -1,0 +1,3 @@
+class SampleRule < Rule
+
+end
